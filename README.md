@@ -28,7 +28,7 @@ Dashboard Features
   across business units.
 - Interactive exploration: Power BI visual interactions and
   filters allow users to explore the data from different perspectives.
-  Key Observations from the Current Dashboard View
+Key Observations from the Current Dashboard View
 The screenshot currently displays:
 - 1,318 as the total count shown in the employee table.
 - Production as the largest department category, with 758
@@ -39,3 +39,4 @@ The screenshot currently displays:
   displayed line chart.
 These are observations from the screenshot's current filter state. They
 may change when dashboard filters or slicers are applied.
+https://github.com/RadhikaThale/Employee-Dashboard-Power-BI/blob/main/Employee_data.png
